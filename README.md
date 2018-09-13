@@ -9,4 +9,4 @@ these new lines here
 
 Adding a line at the end
 
-Continuing with some more changes of work
+This will cause conflict - Continuing with some more changes of work
