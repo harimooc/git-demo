@@ -1,4 +1,3 @@
-
 and now adding a line
 
 Adding some new lines as the first modification 
@@ -10,3 +9,5 @@ these new lines here
 Adding a line at the end
 
 This will cause conflict - Continuing with some more changes of work
+
+making some changes to demo stashing in git
